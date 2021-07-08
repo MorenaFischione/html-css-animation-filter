@@ -177,3 +177,26 @@ opacity: 0;
     }
 }
 
+/* dodicesimo esercizio Anima il bottone, sposta quello spazio bianco */
+
+/* .ex-12-button {
+    color: black;
+    width: 300px;
+    text-transform: uppercase;
+    border: 3px solid black;
+    font-size: 30px;
+    text-decoration: none;
+    line-height: 80px;
+    text-align: center;
+    padding: 30px 50px;
+}
+
+.ex-12-button-bianco {
+    position: absolute;
+    left: 10%;
+    color: blanchedalmond;
+    width: 60px;
+    height: 20px;
+}
+
+ */
